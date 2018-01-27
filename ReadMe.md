@@ -1,2 +1,2 @@
-#ARDUINO CONTROLLED FAN
+# ARDUINO CONTROLLED FAN
 The speed of the fan is controlled using an Arduino and a temperature sensor. The code can be altered but in the current code, 35 C is the minimum temperature required for the fan to be turned on. The fan's speed increases with the increase in temperature and it gains maximum speed at a temperature of 100 C. On a serial monitor, the temperature detected by the temperature sensor is being displayed at an interval of 1 second. There is an LED too which turns on when the fan is working at its maximum speed.
